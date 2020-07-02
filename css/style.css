@@ -14,3 +14,13 @@
 .zurueck {
     text-align: center;
 }
+
+.music {
+    display: flex;
+    justify-content: center;
+
+}
+
+.music audio {
+    margin: 10px;
+}
