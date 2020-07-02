@@ -1,0 +1,16 @@
+.carousel-item {
+    max-width: 100%;
+    justify-items: center;
+}
+
+.formular {
+    margin: 5%;
+}
+
+.aufbau img {
+    width: 100%;
+}
+
+.zurueck {
+    text-align: center;
+}
